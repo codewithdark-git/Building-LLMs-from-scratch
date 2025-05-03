@@ -10,7 +10,8 @@ This repository guides you through the process of building a GPT-style **Large L
 * **Author**: Sebastian Raschka
 * **Publisher**: Manning Publications
 * **Link**: [manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-
+* **Free Version** [On Github Gist](https://gist.github.com/codewithdark-git/e204e6c06546f652e76ced9d479d914e)
+* **Donwload pdf** [PDF Version]()
 ---
 
 ## 🗓️ Weekly Curriculum Overview
