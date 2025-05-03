@@ -11,41 +11,38 @@ This repository guides you through the process of building a GPT-style **Large L
 * **Publisher**: Manning Publications
 * **Link**: [manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 * **Free Version**: [On Github Gist](https://gist.github.com/codewithdark-git/e204e6c06546f652e76ced9d479d914e)
-* **Donwload pdf**: [PDF Version](https://raw.github.com/codewithdark-git/Building-LLMs-from-scratch/379208ccc204218f0ffc9114464b36d96a97505e/Building%20LLMs%20From%20Scratch.pdf)
+* **Download PDF**: [PDF Version](https://raw.github.com/codewithdark-git/Building-LLMs-from-scratch/379208ccc204218f0ffc9114464b36d96a97505e/Building%20LLMs%20From%20Scratch.pdf)
+
 ---
 
 ## 🗓️ Weekly Curriculum Overview
 
-### 🔹 Week 1: Core Concepts of Language Modeling
+### 🔹 Week 1: Foundations of Language Models
 
-* Set up your development environment and explore foundational concepts in NLP and tokenization.
-* Learn how to numerically encode language, build vocabularies, and understand token embeddings.
-* Grasp the importance of attention mechanisms and understand how to implement them manually.
+* Set up the environment and tools.
+* Learn about tokenization, embeddings, and the idea of a "language model".
+* Encode input/output sequences and build basic forward models.
+* Understand unidirectional processing and causal language modeling.
 
----
+### 🔹 Week 2: Building the Transformer Decoder
 
-### 🔹 Week 2: Building the Transformer
+* Explore Transformer components: attention, multi-head attention, and positional encoding.
+* Implement residual connections, normalization, and feedforward layers.
+* Build a GPT-style decoder-only transformer architecture.
 
-* Dive into the architecture of Transformer models from the ground up.
-* Learn about positional encoding, residual connections, normalization, and multi-head attention.
-* Construct and test a decoder-style Transformer (like GPT) with causal masking.
+### 🔹 Week 3: Training and Dataset Handling
 
----
+* Load and preprocess datasets like TinyShakespeare.
+* Implement batch creation, context windows, and training routines.
+* Use cross-entropy loss, optimizers, and learning rate schedulers.
+* Monitor perplexity and improve generalization.
 
-### 🔹 Week 3: Training and Optimization
+### 🔹 Week 4: Text Generation and Deployment
 
-* Prepare and preprocess datasets such as TinyShakespeare or WikiText.
-* Create efficient data pipelines and define model training loops.
-* Apply optimizer strategies, monitor model perplexity, and manage model checkpoints.
-
----
-
-### 🔹 Week 4: Evaluation and Hugging Face Deployment
-
-* Implement text generation methods including greedy and top-k sampling.
-* Evaluate the model's outputs and compare them with other LLMs.
-* Learn how to convert your model for Hugging Face Hub and push it live.
-* Create a Hugging Face Space using Gradio to serve your model with an interactive UI.
+* Generate text using greedy, top-k, top-p, and temperature sampling.
+* Evaluate and tune generation.
+* Export and convert model for Hugging Face compatibility.
+* Deploy via Hugging Face Hub and Gradio Space.
 
 ---
 
@@ -67,7 +64,7 @@ This repository guides you through the process of building a GPT-style **Large L
 git clone https://github.com/codewithdark-git/Building-LLMs-from-scratch.git
 cd Building-LLMs-from-scratch
 pip install -r requirements.txt
-```
+````
 
 ---
 
@@ -79,6 +76,7 @@ Building-LLMs-from-scratch/
 ├── models/               # Model architectures & checkpoints
 ├── data/                 # Preprocessing and datasets
 ├── hf_deploy/            # Hugging Face config & deployment scripts
+├── theoretical/          # Podcast & theoretical discussions
 ├── utils/                # Helper scripts
 ├── requirements.txt
 └── README.md
@@ -108,3 +106,4 @@ You’ll find detailed instructions inside the `hf_deploy/` folder.
 ## 📄 License
 
 MIT License — see the `LICENSE` file for details.
+
