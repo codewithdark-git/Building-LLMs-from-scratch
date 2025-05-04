@@ -38,6 +38,7 @@ This document lists all the valuable resources referenced throughout the project
 
 - [Build LLMs from Scratch – YouTube Playlist (by Raschka)](https://youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11&si=V7GANE-pELZ2CnXO)
 - [Build LLMs from Scratch – YouTube Playlist (by Vizuara)](https://youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&si=xs2Z1sF7EgrSK3Fk)
+- [Transformer – YouTube Playlist (by Campusx)](https://youtube.com/playlist?list=PLkBMe2eZMRQ2VKEtoL0GVUrNzEiXfgj07&si=jOGpyzBqlX4exZvO)
 - [Stanford CS224n: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
 - [FastAI NLP Course](https://course.fast.ai/)
 
