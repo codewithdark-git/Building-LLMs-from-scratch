@@ -12,6 +12,7 @@ This repository guides you through the process of building a GPT-style **Large L
 * **Link**: [manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 * **Free Version**: [On Github Gist](https://gist.github.com/codewithdark-git/e204e6c06546f652e76ced9d479d914e)
 * **Download PDF**: [PDF Version](https://raw.github.com/codewithdark-git/Building-LLMs-from-scratch/379208ccc204218f0ffc9114464b36d96a97505e/Building%20LLMs%20From%20Scratch.pdf)
+* **Resourse**: [Check the Resourse From Where I learn](https://raw.github.com/codewithdark-git/Building-LLMs-from-scratch/8b47e0cdce30ae2e1fd81f7d2cb80d8cde1a4389/utils/resources.md)
 
 ---
 
