@@ -47,6 +47,10 @@ This repository guides you through the process of building a GPT-style **Large L
 
 ---
 
+###  Build Models
+
+FaseehGPT is an advanced pipeline for training a GPT-style language model specifically designed for the Arabic language. [FaseehGPT](https://github.com/alphatechlogics/FaseehGPT)
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
