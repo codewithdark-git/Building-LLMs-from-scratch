@@ -49,7 +49,9 @@ This repository guides you through the process of building a GPT-style **Large L
 
 ###  Build Models
 
-FaseehGPT is an advanced pipeline for training a GPT-style language model specifically designed for the Arabic language. [FaseehGPT](https://github.com/alphatechlogics/FaseehGPT)
+- ***FaseehGPT*** is an advanced pipeline for training a GPT-style language model specifically designed for the Arabic language. [FaseehGPT](https://github.com/alphatechlogics/FaseehGPT)
+
+- ***Urdu-LM*** is an advanced training pipeline for building a Mixture-of-Experts (MoE) language model tailored specifically for the Urdu language, enabling more efficient, scalable, and high-quality natural language understanding and generation.. [Urdu-LM](https://github.com/codewithdark-git/Urdu-LM-MOE)
 
 ## 🛠️ Getting Started
 
